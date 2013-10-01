@@ -4,6 +4,11 @@ ubuntu-packager-plugin
 A basic Ubuntu/Debian packager plugin for [Gradle](http://gradle.org).
 It has some quirks but it should be possible to use it to create packages.
 
+Restriction
+-----------
+
+This plugin may only be used to build architecture independent packages, such as packages containing compiled Java code.
+
 Example Project
 ---------------
 
