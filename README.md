@@ -90,6 +90,3 @@ E.g:
 * myapp/grails
 * myapp/myapp
 * myapp/myapp-data
-
-So far the plugin will create debian packages based on the architecture on which the package is build. As I intend to use this for Java projects this should be changed to all instead in a future version. Or the target platform when using platform specific compilers.
-
